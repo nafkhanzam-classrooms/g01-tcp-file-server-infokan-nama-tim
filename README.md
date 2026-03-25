@@ -4,8 +4,7 @@
 ## Anggota Kelompok
 | Nama           | NRP        | Kelas     |
 | ---            | ---        | ----------|
-|                |            |           |
-|                |            |           |
+|Rendy Tanuwijaya|5025241099|D|
 
 ## Link Youtube (Unlisted)
 Link ditaruh di bawah ini
